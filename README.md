@@ -2,7 +2,7 @@ Hi, I'm Adomas. I'm a Lithuanian developer and I'm very happy you found my profi
 
 Want to know more about me and my work? Nice! Visit my website adomasnetwork.site and take a look on my the awsome things I'm making. 
 
-Here some things I like to do
+Here some things I like to do:
 
 💻 Developing some projects
 🎮 Playing video games
